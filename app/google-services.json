@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665941979914",
+    "project_id": "gettouni-db638",
+    "storage_bucket": "gettouni-db638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665941979914:android:947457b62d3d8731e040f3",
+        "android_client_info": {
+          "package_name": "com.example.gettouni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665941979914-tgjqlscou27d3s4aafoprucd3vull9aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBithMZvCZ-nRjowo2mCqohzUynTSBtoN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665941979914-tgjqlscou27d3s4aafoprucd3vull9aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
